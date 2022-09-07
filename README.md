@@ -1,4 +1,4 @@
-VEG2EDL
+VPJ2EDL
 ========
 
 ## Overview
@@ -10,15 +10,15 @@ DaVinci Resolve Editor.
 
 ## Installation
 
-`npm install veg2edl`
+`npm install VPJ2EDL`
 
-`git clone https://rauls@github.com/rauls/veg2edl.git`
+`git clone https://rauls@github.com/rauls/VPJ2EDL.git`
 
 ## Examples
 
 ### Consumer
 
-veg2edl.js -s OpenYourMind-video/OpenYourMind.vpj -edl
+VPJ2EDL.js -s OpenYourMind-video/OpenYourMind.vpj -edl
 
 ### Contributors
 
