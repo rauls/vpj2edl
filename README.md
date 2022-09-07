@@ -10,15 +10,15 @@ DaVinci Resolve Editor.
 
 ## Installation
 
-`npm install VPJ2EDL`
+`npm install vpj2edl`
 
-`git clone https://rauls@github.com/rauls/VPJ2EDL.git`
+`git clone https://rauls@github.com/rauls/vpj2edl.git`
 
 ## Examples
 
 ### Consumer
 
-VPJ2EDL.js -s OpenYourMind-video/OpenYourMind.vpj -edl
+vpj2edl.js -s OpenYourMind-video/OpenYourMind.vpj -edl
 
 ### Contributors
 
