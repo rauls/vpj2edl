@@ -13,7 +13,7 @@ process it to something else.
 
 `npm install vpj2edl`
 
-`git clone https://rauls@github.com/rauls/vpj2edl.git`
+`git clone https://git@github.com/rauls/vpj2edl.git`
 
 ## Examples
 
