@@ -123,7 +123,9 @@ function process_file( ERR, filedata ) {
 		if (options.edl) {
 			data.tracks = parseInt(data.tracks);
 			for( var t=0; t<(data.tracks);t++) {
-				console.log("Createing EDL File..."+(t+1));
+				if( options.verbose ) {
+					console.log("Creating EDL File..."+(t+1));
+				}
 				create_edl_file( data, t );
 			}
 		}
@@ -169,7 +171,6 @@ function main() {
 	let n = 1;
 	while( n < max ) {
 		let cmd = process.argv[n];
-		console.log("CMD ", cmd );
 		if( cmd ) {
 			let param = (n<max) ? process.argv[n+1] : '';
 			if( cmd.charAt(0) == '-' ) {
