@@ -1,4 +1,4 @@
-#!node vpj2edl.js -s OpenYourMind-video/OpenYourMind.vpj -edl
+#!node vpj2edl.js -s ../OpenYourMind-video/OpenYourMind.vpj -edl
 # ***
 # *** Created by Raul Sobon
 # *** VideoPad to EDL conversion software
@@ -191,5 +191,5 @@ function main() {
 	}	
 }
 
-// RUNAS : node vpj2edl.js OpenYourMind-2.veg
+// RUNAS : node vpj2edl.js -s OpenYourMind.vpj -edl
 return main();
