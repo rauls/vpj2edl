@@ -22,7 +22,8 @@ process it to something else.
 vpj2edl.js -s OpenYourMind-video/OpenYourMind.vpj -edl
 
 ### EDL OUTPUT
-```TITLE Clips - TRACK 3
+```
+TITLE Clips - TRACK 3
 FCM: NON-DROP FRAME
 001  BL       V     C        00:00:00:00 00:00:01:21 00:00:00:00 00:00:01:21
 * FROM CLIP NAME: 170307_Particles_07_1080p.mp4
@@ -38,7 +39,8 @@ FCM: NON-DROP FRAME
 * FROM CLIP NAME: MUSICEXPRESS LIGHT4ME 4 DISCO Efekt LED RGBWA mocny solidny.mp4
 007  BL       V     C        00:00:49:05 00:00:52:14 00:00:30:04 00:00:33:13
 * FROM CLIP NAME: MUSICEXPRESS LIGHT4ME 4 DISCO Efekt LED RGBWA mocny solidny.mp4
-008  BL       V     C        00:00:00:00 00:00:02:28 00:00:33:13 00:00:36:11```
+008  BL       V     C        00:00:00:00 00:00:02:28 00:00:33:13 00:00:36:11
+```
 
 ### Contributors
 
